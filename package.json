@@ -1,6 +1,6 @@
 {
   "name": "koco-server",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "",
   "main": "./bin/koco-server-cli.js",
   "scripts": {

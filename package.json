@@ -2,9 +2,12 @@
   "name": "koco-server",
   "version": "0.1.4",
   "description": "",
-  "main": "./bin/koco-server-cli.js",
+  "main": "./lib/koco-server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "koco-server": "bin/koco-server-cli.js"
   },
   "repository": {
     "type": "git",

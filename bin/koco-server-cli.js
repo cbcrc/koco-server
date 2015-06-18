@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var Server = require('./../lib/koco-server').Server;
 
 var argv = require('optimist')
